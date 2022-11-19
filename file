@@ -1,0 +1,13 @@
+git commands
+ec2-instance
+mkdir mumbai
+git init
+touch file 
+git status 
+git log
+git show <commit id>
+git remote add origin<central github url>
+git push -u origin master
+[username & passwd]
+
+
